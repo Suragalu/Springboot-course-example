@@ -31,3 +31,5 @@ build/
 
 ### VS Code ###
 .vscode/
+target/test-classes/com/example/demo/DemoApplicationTests.class
+.gitignore
